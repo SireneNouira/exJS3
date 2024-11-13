@@ -78,7 +78,6 @@
 
 //EXERCICE 5.4
 
-
 // let nombre = parseInt(prompt("Entrez un nombre de depart"), 10);
 
 // for (let i = 1; i < 10; i++) {
@@ -86,4 +85,14 @@
 // }
 
 //EXERCICE 5.5
+
+// let nombre = parseInt(prompt("Entrez un nombre de depart"), 10);
+// let result = "";
+// for (let i = 1; i <= 10; i++) {
+//   result=nombre * i;
+  
+//   console.log(nombre + "X" + i + "=" + result);
+// }
+
+//EXERCICE 5.6
 
